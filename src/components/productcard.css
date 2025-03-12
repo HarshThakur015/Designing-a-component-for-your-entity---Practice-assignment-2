@@ -25,3 +25,17 @@ body {
   object-fit: cover;
   margin-bottom: 15px;
 }
+
+.product-name {
+  font-size: large;
+  font-family: sans-serif; /* Use font-family instead of font */
+  font-weight: 600; /* Make it bolder for better visibility */
+  color: #333; 
+}
+
+.product-price {
+  font-size: large;
+  font-family: sans-serif; /* Use font-family instead of font */
+  font-weight: 600; /* Make it bolder for better visibility */
+  color: #333; 
+}
